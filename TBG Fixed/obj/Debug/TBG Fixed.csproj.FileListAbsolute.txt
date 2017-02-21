@@ -1,0 +1,6 @@
+H:\1. homework\TBG Fixed\TBG Fixed\bin\Debug\TBG Fixed.exe.config
+H:\1. homework\TBG Fixed\TBG Fixed\bin\Debug\TBG Fixed.exe
+H:\1. homework\TBG Fixed\TBG Fixed\bin\Debug\TBG Fixed.pdb
+H:\1. homework\TBG Fixed\TBG Fixed\obj\Debug\TBG Fixed.csprojResolveAssemblyReference.cache
+H:\1. homework\TBG Fixed\TBG Fixed\obj\Debug\TBG Fixed.exe
+H:\1. homework\TBG Fixed\TBG Fixed\obj\Debug\TBG Fixed.pdb
